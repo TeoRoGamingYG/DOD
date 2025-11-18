@@ -110,13 +110,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Teutu\Desktop\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Teutzu\Desktop\Facultate\DOD\imgui-master\backends;C:\Users\Teutzu\Desktop\Facultate\DOD\imgui-master;C:\Users\Teutzu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CompileAs>Default</CompileAs>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Teutzu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL3.lib;SDL3_test.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -139,13 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\backends\imgui_impl_opengl3.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\backends\imgui_impl_sdl3.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui_demo.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui_draw.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui_tables.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui_widgets.cpp" />
+    <ClCompile Include="..\imgui-master\backends\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="..\imgui-master\backends\imgui_impl_sdl3.cpp" />
+    <ClCompile Include="..\imgui-master\imgui.cpp" />
+    <ClCompile Include="..\imgui-master\imgui_demo.cpp" />
+    <ClCompile Include="..\imgui-master\imgui_draw.cpp" />
+    <ClCompile Include="..\imgui-master\imgui_tables.cpp" />
+    <ClCompile Include="..\imgui-master\imgui_widgets.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
