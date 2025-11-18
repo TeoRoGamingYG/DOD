@@ -76,13 +76,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Teutu\Desktop\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Teutu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;C:\Users\Teutu\Desktop\Facultate\DOD\imgui-master;C:\Users\Teutu\Desktop\Facultate\DOD\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CompileAs>Default</CompileAs>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Teutu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL3.lib;SDL3_test.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -94,13 +94,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Teutu\Desktop\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Teutu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;C:\Users\Teutu\Desktop\Facultate\DOD\imgui-master;C:\Users\Teutu\Desktop\Facultate\DOD\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CompileAs>Default</CompileAs>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Teutu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL3.lib;SDL3_test.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -110,13 +110,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Teutzu\Desktop\Facultate\DOD\imgui-master\backends;C:\Users\Teutzu\Desktop\Facultate\DOD\imgui-master;C:\Users\Teutzu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Teutu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;C:\Users\Teutu\Desktop\Facultate\DOD\imgui-master;C:\Users\Teutu\Desktop\Facultate\DOD\imgui-master\backends;C:\Users\Teutzu\Desktop\Facultate\DOD\imgui-master\backends;C:\Users\Teutzu\Desktop\Facultate\DOD\imgui-master;C:\Users\Teutzu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CompileAs>Default</CompileAs>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\Teutzu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Teutu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;C:\Users\Teutzu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL3.lib;SDL3_test.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -128,13 +128,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Teutu\Desktop\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Teutu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;C:\Users\Teutu\Desktop\Facultate\DOD\imgui-master;C:\Users\Teutu\Desktop\Facultate\DOD\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master\backends;C:\Users\Teutu\Desktop\imgui-master;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CompileAs>Default</CompileAs>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Teutu\Desktop\Facultate\DOD\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;C:\Users\Teutu\Desktop\SDL3-devel-3.2.24-VC\SDL3-3.2.24\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL3.lib;SDL3_test.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>

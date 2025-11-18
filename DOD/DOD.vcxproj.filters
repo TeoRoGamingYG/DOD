@@ -18,25 +18,25 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui.cpp">
+    <ClCompile Include="..\imgui-master\backends\imgui_impl_opengl3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui_demo.cpp">
+    <ClCompile Include="..\imgui-master\backends\imgui_impl_sdl3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui_draw.cpp">
+    <ClCompile Include="..\imgui-master\imgui.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui_tables.cpp">
+    <ClCompile Include="..\imgui-master\imgui_demo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\imgui_widgets.cpp">
+    <ClCompile Include="..\imgui-master\imgui_draw.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\backends\imgui_impl_opengl3.cpp">
+    <ClCompile Include="..\imgui-master\imgui_tables.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\imgui-master\backends\imgui_impl_sdl3.cpp">
+    <ClCompile Include="..\imgui-master\imgui_widgets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
